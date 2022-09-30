@@ -3,6 +3,8 @@ const Bio = {
 
 "Qualification" : "CSE'undergrad 2023",
 
+"DOB" : 2003,
+
 "Hobby" : "Competitive Programming Problem Solving",
 
 "Participation" : "NEWTON SCHOOL GRAND CODING CONTEST",
