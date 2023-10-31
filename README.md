@@ -2,7 +2,7 @@ const Bio = {
 
 "Name" : "Aamir Khan",
 
-"Qualification" : "CSE'undergrad 2023",
+"Qualification" : "GRADUATED",
 
 "DOB" : 2003,
 
